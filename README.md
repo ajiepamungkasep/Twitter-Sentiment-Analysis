@@ -1,1 +1,2 @@
 # Twitter-Sentiment-Analysis
+Ini adalah project pertama pada proses pembelajaran Machine Learning. Project ML-NLP dengan menggunakan Twitter API dan modul tweepy untuk text mining. Project ini bertujan selain untuk sarana belajar, juga dibuat berdasarkan keingintahuan saya terhadap sentimen netizen Twitter terhadap polisi yang mana dalam beberapa waktu kebelakang, citranya semakin buruk di masyarakat.
